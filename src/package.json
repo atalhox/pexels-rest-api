@@ -1,0 +1,25 @@
+{
+  "name": "pexels-rest-api",
+  "version": "1.0.0",
+  "description": "Esta API tem como objetivo consumir a API Pexels para obter pacotes de imagens de tema pré-determinado, para economia de tempo em buscas de bancos de imagens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atalhox/pexels-rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atalhox/pexels-rest-api/issues"
+  },
+  "homepage": "https://github.com/atalhox/pexels-rest-api#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "pexels": "^1.3.0"
+  }
+}
