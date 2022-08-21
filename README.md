@@ -69,9 +69,9 @@ Por favor, [colabore](https://gist.github.com/atalhox/adb28140d9c08ce4d2b3ea6ddb
 
 ### To-do
 
-() Criar interface para input dos termos
-() Refatorar input para interface
-() Refatorar input de qualidade de imagem
+- [ ] Criar interface para input dos termos
+- [ ] Refatorar input para interface
+- [ ] Refatorar input de qualidade de imagem
 
 ## Versão
 
